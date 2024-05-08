@@ -1,4 +1,5 @@
 readme.txt
+<img width="854" alt="image" src="https://github.com/ai-6g-etc/darkriscv-uvm/assets/77096593/b4b53797-e601-46e8-8add-042e67a4330b">
 
 This UVM project contains the following SystemVerilog source files:
 
